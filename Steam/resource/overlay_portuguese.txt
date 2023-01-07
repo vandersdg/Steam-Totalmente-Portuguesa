@@ -12,7 +12,7 @@
 "Overlay_SettingsDescriptionApp"	"O Steam pode permanecer ativo e mostrar-te notificações da Comunidade Steam dentro duma aplicação, incluindo uma interface completa de amigos."
 "Overlay_SettingsEnable"	"Ativar o Painel Steam durante o jogo"
 "Overlay_SettingsEnableApp"	"Ativar a Comunidade Steam em aplicações"
-"Overlay_SettingsSCTenfootEnable"	"Usar sempre o painel do Big Picture se um comando configurado pelo Steam estiver ligado"
+"Overlay_SettingsSCTenfootEnable"	"Usar sempre o painel do Grande Imagem se um comando configurado pelo Steam estiver ligado"
 "Overlay_SettingsHotKeyLabel"	"Teclas de atalho do Painel"
 "Overlay_SettingsScreenshotHotKeyLabel"	"Teclas de atalho para capturas de ecrã"
 "Overlay_SettingsScreenshotActionLabel" "Quando uma captura de ecrã é feita"
